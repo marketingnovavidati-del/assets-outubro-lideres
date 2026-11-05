@@ -1,0 +1,13 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Icon Container &#194;&#183; trend-down-01" clip-path="url(#clip0_0_9)">
+<path id="Vector" d="M0 8C0 3.58172 3.58172 0 8 0H18C22.4183 0 26 3.58172 26 8V18C26 22.4183 22.4183 26 18 26H8C3.58172 26 0 22.4183 0 18V8Z" fill="#FFFAB5"/>
+<g id="trend-down-01">
+<path id="Vector_2" d="M7.53 10.26L10.59 13.21L13.21 10.68L18.46 15.73M14.52 15.73H18.46V11.94" stroke-linecap="round" stroke-linejoin="round" stroke="#111111"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_9">
+<rect width="26" height="26" fill="white"/>
+</clipPath>
+</defs>
+</svg>
